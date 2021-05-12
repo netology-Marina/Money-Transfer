@@ -13,8 +13,8 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-* [чек-лист](D:\Money Transfer\check list.md)
-* [тест-кейс](D:\Money Transfer\test case.md)
+* [чек-лист](https://github.com/netology-Marina/Money-Transfer/blob/master/check%20list.md)
+* [тест-кейс](https://github.com/netology-Marina/Money-Transfer/blob/master/test%20case.md)
 
 
 В качестве тестовых данных использовались данные:
