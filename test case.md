@@ -1,3 +1,3 @@
 # Тест-кейс к  тестированию Money Transfer
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/82470583/118704233-92200100-b81f-11eb-9ede-29baee23d187.png)
